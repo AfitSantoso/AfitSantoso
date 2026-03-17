@@ -1,33 +1,18 @@
 # Hi, I'm Afit 👋
-**📍 South Jakarta, Indonesia | 🤖 Software Developer & AI Enthusiast | 🚀 Tech PDP at BCA Finance**
+
+📍 South Jakarta, Indonesia | 🤖 Full Stack Developer | [cite_start]🚀 PDP Technology at PT BCA Finance [cite: 4, 13, 14]
+
+[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) [cite: 43, 80, 82, 83]
+
+[cite_start]🔍 [afitsantoso-portofolio.vercel.app](https://afitsantoso-portofolio.vercel.app/) – My personal portfolio and project showcase[cite: 86].
+
+## Current Projects
+
+* 📱 **[Genggamin](https://github.com/AfitSantoso)** – Digital cash loan application for modern financial needs.
+* [cite_start]🏦 **Banking Loan Apps** – BCA loan application platform built with Angular, Spring Boot, and Android[cite: 41, 43].
+* [cite_start]🤖 **Garbage Detection AI** – Real-time detection system using CCTV and RTSP protocol for train cars[cite: 28].
+* [cite_start]🌐 **UTI Information Space** – Immersive metaverse environment for campus registration and engagement[cite: 44, 46].
+* [cite_start]🏫 **Algorithmics Global** – Teaching Python Pro 2: Kivy, Pandas, and Machine Learning[cite: 19, 22].
 
 ---
-
-### 🚀 Sedang Dikerjakan (Current Focus)
-* **Genggamin:** Membangun aplikasi pinjaman tunai (cash loan) digital yang efisien.
-* **AI & Machine Learning:** Bereksperimen dengan deteksi objek dan integrasi AI pada backend.
-* **Teaching:** Membagikan ilmu Python dan Game Design di Algorithmics Global FZE.
-
-### 🛠️ Tech Stack
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | Python, C#, JavaScript, SQL, PHP, Java |
-| **Frameworks** | Angular, Spring Boot, Android Studio, Unity |
-| **Cloud/Ops** | Docker, Alibaba Cloud (ACA), AWS, Google Cloud |
-
-### 📂 Proyek Unggulan (Featured Projects)
-* **🏦 Banking Loan Apps:** Platform pinjaman menggunakan Angular & Spring Boot.
-* **🌐 UTI Metaverse:** Ruang virtual interaktif untuk Universitas Teknokrat Indonesia.
-* **🚇 Garbage Detection AI:** Inovasi deteksi sampah menggunakan CCTV & protokol RTSP.
-* **🛍️ Metaverse Mall:** Memimpin tim dalam membangun mall virtual 3D.
-
-### ✍️ Aktivitas Terbaru
-* **Public Speaking:** Aktif sebagai pemateri workshop pengembangan Metaverse.
-* **Community:** Edukasi masyarakat mengenai adopsi teknologi Metaverse.
-
-### 📫 Hubungi Saya
-* **Portfolio:** [afitsantoso-portofolio.vercel.app](https://afitsantoso-portofolio.vercel.app/)
-* **LinkedIn:** [Afit Santoso](https://www.linkedin.com/in/afit-santoso-a4b353248)
-
----
-*"Build. Teach. Innovate."*
+[cite_start]"Driving innovation through technical proficiency and impactful results." [cite: 11]
